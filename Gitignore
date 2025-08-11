@@ -1,0 +1,8 @@
+# Ignore all CSV files in the data folder
+data/*.csv
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore temporary files
+*.tmp
